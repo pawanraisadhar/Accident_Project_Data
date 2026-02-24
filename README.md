@@ -5,6 +5,7 @@ Accident Project Data
 ## DashBoard-->
 - <a href="https://public.tableau.com/app/profile/pawan.raisadhar/viz/AccidentProjectData/Dashboard1?publish=yes">DashBoard Viwe</a> 
 - DashBoard image<a href="https://github.com/pawanraisadhar/Accident_Project_Data/blob/main/Accident%20Project%20Data%20DashBoard"> DashBoard image</a>
+ <img width="1459" height="799" alt="Screenshot 2026-02-24 122409" src="https://github.com/user-attachments/assets/08957ac2-1063-4935-9b29-8c67bd3584c1" />
 
 📌 Project Overview
 This project analyzes road accident data using Tableau to identify patterns in accident frequency, casualty severity, vehicle involvement, and location-based trends. The dashboard provides interactive visualizations to help understand major risk factors and improve road safety strategies.
